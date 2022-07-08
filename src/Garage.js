@@ -1,7 +1,7 @@
 import Car from "./Car";
 import Header from "./Header";
 import Football from "./Football";
-import MyForm from "./MyForm";
+import { MyForm, MyTextarea, MySelect } from "./MyForm";
 
 function CarMap(props) {
   return <li>I am a {props.brand}</li>;
@@ -27,6 +27,8 @@ function Garage(props) {
       <Header />
       <Football />
       <MyForm />
+      <MyTextarea />
+      <MySelect />
     </>
   );
 }

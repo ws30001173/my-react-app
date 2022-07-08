@@ -1,7 +1,7 @@
 import React from "react";
 
 /* state object maintain Component properties
-when state objct changes, Component re-renders */
+when state object changes, Component re-renders */
 
 /* props object passed to constructor and super method, 
 multiple props object available as arguments */

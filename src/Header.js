@@ -1,6 +1,6 @@
 import React from "react";
 
-/* Life cycle method
+/* LifeCycle method
    Mounting, Updating, Unmounting
 */
 
